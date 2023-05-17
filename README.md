@@ -1,4 +1,5 @@
 ## Web-Scraping com Puppeteer
+<br>
 
 Este repositório contém um projeto básico de web-scraping implementado usando o Puppeteer. Puppeteer é uma biblioteca Node.js que fornece uma API de alto nível para controlar um navegador Chrome ou Chromium. Ele permite que você automatize interações com páginas da web, navegue por sites e extraia dados usando uma poderosa estrutura de extração.<br>
 <br>
