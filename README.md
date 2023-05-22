@@ -1,9 +1,9 @@
-## Web-Scraping com Puppeteer
+# Web-Scraping com Puppeteer
 <br>
 
 Este repositório contém um projeto básico de web-scraping implementado usando o Puppeteer. Puppeteer é uma biblioteca Node.js que fornece uma API de alto nível para controlar um navegador Chrome ou Chromium. Ele permite que você automatize interações com páginas da web, navegue por sites e extraia dados usando uma poderosa estrutura de extração.<br>
 <br>
-### Requisitos
+## Requisitos
 
 
 Para executar o projeto, é necessário ter instalado o Node.js e o gerenciador de pacotes npm. Além disso, é necessário instalar as dependências do projeto, utilizando o seguinte comando:
@@ -13,7 +13,7 @@ npm install
 ```
 <br>
 
-### Instalação do Puppeteer
+## Instalação do Puppeteer
 
 
 Execute o seguinte comando para instalar o Puppeteer como uma dependência do projeto:
