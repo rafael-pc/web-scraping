@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "'96 Zenkoku Koukou Soccer Senshuken (Japan)",
+    "developer": "Magical Company (Mahou)",
+    "release": "1996",
+    "region": "Japan",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/'96%20Zenkoku%20Koukou%20Soccer%20Senshuken%20(Japan).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/'96%20Zenkoku%20Koukou%20Soccer%20Senshuken%20(Japan).png"
+  },
+  {
+    "id": 2,
+    "title": "2020 Super Baseball (Japan)",
+    "developer": "Monolith (Japan)",
+    "release": "1993",
+    "region": "Japan",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/2020%20Super%20Baseball%20(Japan).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/2020%20Super%20Baseball%20(Japan).png"
+  },
+  {
+    "id": 3,
+    "title": "2020 Super Baseball (USA)",
+    "developer": "Monolith (Japan)",
+    "release": "1993",
+    "region": "Japan",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/2020%20Super%20Baseball%20(USA).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/2020%20Super%20Baseball%20(USA).png"
+  },
+  {
+    "id": 4,
+    "title": "3 Ninjas Kick Back (USA)",
+    "developer": "Malibu",
+    "release": "1994",
+    "region": "USA",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/3%20Ninjas%20Kick%20Back%20(USA).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/3%20Ninjas%20Kick%20Back%20(USA).png"
+  },
+  {
+    "id": 5,
+    "title": "3x3 Eyes - Juuma Houkan (Japan)",
+    "developer": "System Supply N-Tech",
+    "release": "1995",
+    "region": "USA",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/3x3%20Eyes%20-%20Juuma%20Houkan%20(Japan).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/3x3%20Eyes%20-%20Juuma%20Houkan%20(Japan).png"
+  },
+  {
+    "id": 6,
+    "title": "3x3 Eyes - Seima Kourinden (Japan)",
+    "developer": "Nova Games Ltd.",
+    "release": "1992",
+    "region": "Japan",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/3x3%20Eyes%20-%20Seima%20Kourinden%20(Japan).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/3x3%20Eyes%20-%20Seima%20Kourinden%20(Japan).png"
+  },
+  {
+    "id": 7,
+    "title": "4-nin Shougi (Japan)",
+    "developer": "Pow",
+    "release": "1995",
+    "region": "Japan",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/4-nin%20Shougi%20(Japan).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/4-nin%20Shougi%20(Japan).png"
+  },
+  {
+    "id": 8,
+    "title": "46 Okunen Monogatari - Harukanaru Eden e (Japan)",
+    "developer": "Almanic Corp.",
+    "release": "1993",
+    "region": "Japan",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/46%20Okunen%20Monogatari%20-%20Harukanaru%20Eden%20e%20(Japan).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/46%20Okunen%20Monogatari%20-%20Harukanaru%20Eden%20e%20(Japan).png"
+  },
+  {
+    "id": 9,
+    "title": "7th Saga, The (USA)",
+    "developer": "Produce",
+    "release": "1993",
+    "region": "Japan",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/7th%20Saga,%20The%20(USA).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/7th%20Saga,%20The%20(USA).png"
+  },
+  {
+    "id": 10,
+    "title": "90 Minutes - European Prime Goal (Europe)",
+    "developer": "Namco",
+    "release": "1995",
+    "region": "USA",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/90%20Minutes%20-%20European%20Prime%20Goal%20(Europe).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/90%20Minutes%20-%20European%20Prime%20Goal%20(Europe).png"
+  },
+  {
+    "id": 11,
+    "title": "90 Minutes - European Prime Goal (Europe) (Beta)",
+    "developer": "Namco",
+    "release": "1995",
+    "region": "Europe",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/90%20Minutes%20-%20European%20Prime%20Goal%20(Europe)%20(Beta).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/90%20Minutes%20-%20European%20Prime%20Goal%20(Europe)%20(Beta).png"
+  },
+  {
+    "id": 12,
+    "title": "A.S.P. - Air Strike Patrol (USA)",
+    "developer": "Opus",
+    "release": "1995",
+    "region": "Europe",
+    "boxart": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/A.S.P.%20-%20Air%20Strike%20Patrol%20(USA).png",
+    "snap": "http://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Titles/A.S.P.%20-%20Air%20Strike%20Patrol%20(USA).png"
+  }
+]
